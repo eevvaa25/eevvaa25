@@ -1,7 +1,7 @@
 ## Hi there, My name is Eva 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?color=F2B8C6&lines=Healthcare+Data+Analyst++;SQL+%E2%80%A2+Python+%E2%80%A2+Tableau;Health+Informatics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F2B8C6&width=435&lines=Healthcare+Data+Analyst++;SQL+%E2%80%A2+Python+%E2%80%A2+Tableau;Health+Informatics" alt="Typing SVG" />
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/TseEva"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
